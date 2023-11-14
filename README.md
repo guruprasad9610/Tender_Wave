@@ -4,7 +4,7 @@ TanderWave is an innovative online platform specifically designed to revolutioni
 
 ## Deployed Link
 
-https://tenderwave.netlify.app/
+https://tenderwave.netlify.app
 
 ## About
 
